@@ -37,4 +37,4 @@ Medium-sized outlets contribute the most to total sales.
 Supermarket Type 1 is the top-performing outlet in terms of sales and items.
 Regular fat content items lead in sales ($776.32K).
 
-Screenshot of my Project:
+Screenshot of my Project:https://github.com/anu13771/BLINKIT-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpg
