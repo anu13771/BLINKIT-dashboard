@@ -40,15 +40,23 @@ Outlet Type and Item Type
 These slicers help users drill down into specific subsets of data for focused analysis.
 
 🧰 Tools & Technologies Used
+
 Microsoft Power BI
+
 Data Modeling with DAX
+
 Power Query for Data Cleaning
+
 Interactive Visualizations (Bar charts, Pie charts, Line graphs, Donut charts)
 
 📈 Insights Highlighted
+
 Tier 3 outlets generate the highest sales ($472.13K).
+
 Medium-sized outlets contribute the most to total sales.
+
 Supermarket Type 1 is the top-performing outlet in terms of sales and items.
+
 Regular fat content items lead in sales ($776.32K).
 
 Screenshot of my Project:https://github.com/anu13771/BLINKIT-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpg
