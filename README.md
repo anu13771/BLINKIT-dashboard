@@ -9,6 +9,7 @@ This Power BI project presents a comprehensive Sales Analytics Dashboard for Bli
 
 🌟 Customer Satisfaction: Average rating across items is shown (3.9 stars).
 
+
 📊 Sales Breakdown:
 
 By Fat Content (Low Fat vs Regular)
@@ -59,4 +60,5 @@ Supermarket Type 1 is the top-performing outlet in terms of sales and items.
 
 Regular fat content items lead in sales ($776.32K).
 
-Screenshot of my Project:https://github.com/anu13771/BLINKIT-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpg
+Screenshot of my Project:
+https://github.com/anu13771/BLINKIT-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpg
